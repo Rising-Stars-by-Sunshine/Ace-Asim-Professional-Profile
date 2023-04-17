@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Ace
-description: The page of Ace Asim's STATS201 Introduction to Machine Learning for Social Science Problem Set 1
+title: Ace Asim
+description: The page of Ace Asim's Coding Projects
